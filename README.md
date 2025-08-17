@@ -1,9 +1,9 @@
-# 🧐 Hello! Welcome. 
-🎹 My name is **João Victor Nogueira de Souza**.
-⚡ I have a BSc in **Electrical Engineering**.
-➡️ The language I'm most proficient is <ins>Python</ins>.
-💻 Currently improving my knowledge in Artificial Intelligence and Data Science.
-⚙️ Programming and Engineering enthusiast.
+# ![cpu-fill](image.png) Hello! Welcome.
+- 🎹 My name is **João Victor Nogueira de Souza**.<br/>
+- ⚡ I have a BSc in **Electrical Engineering**.<br/>
+- ➡️ The language I'm most proficient is <ins>Python</ins>.<br/>
+- 💻 Currently improving my knowledge in Artificial Intelligence and Data Science.<br/>
+- ⚙️ Programming and Engineering enthusiast.
 ## ⚔️ I love learning.
 
 <!--
