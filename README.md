@@ -1,4 +1,4 @@
-# ![cpu-fill](cpu-fill.svg) Hello! Welcome.
+# ![cpu-fill](cpu.svg) Hello! Welcome.
 - 🎹 My name is **João Victor Nogueira de Souza**.<br/>
 - ⚡ I have a BSc in **Electrical Engineering**.<br/>
 - ➡️ The language I'm most proficient is <ins>Python</ins>.<br/>
