@@ -1,4 +1,4 @@
-# <img src="cpu.svg" width="100" height="100" alt="cpu"/> Hello! Welcome.
+# <img src="cpu.svg" width="25" alt="cpu"/> Hello! Welcome.
 - 🎹 My name is **João Victor Nogueira de Souza**.<br/>
 - ⚡ I have a BSc in **Electrical Engineering**.<br/>
 - ➡️ The language I'm most proficient is <ins>Python</ins>.<br/>
