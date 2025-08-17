@@ -6,7 +6,7 @@
 <ul>
 <li> 🎹 My name is <strong>João Victor Nogueira de Souza</strong>.</li>
 <li> ⚡ I have a BSc in <strong>Electrical Engineering</strong>.</li>
-<li> ➡️ The language I'm most proficient is <u>Python</u>.</li>
+<li> ➡️ The language I'm most proficient is <ins>Python</ins>.</li>
 <li> 💻 Currently improving my knowledge in Artificial Intelligence and Data Science.</li>
 <li> ⚙️ Programming and Engineering enthusiast. </li>
 </ul>
