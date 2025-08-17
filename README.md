@@ -1,6 +1,6 @@
 <h1><img src="cpu.svg" width="25" alt="cpu"/> Hello! Welcome.</h1>
 
-<img width="125" style="float: right;" src="filetype-py.svg">
+<img align="right" width="125" src="filetype-py.svg">
 
 <div>
 <ul>
