@@ -13,6 +13,13 @@
 </div>
 
 <h2>⚔️ I love learning.</h2>
+# <img src="cpu.svg" width="25" alt="cpu"/> Hello! Welcome.
+- 🎹 My name is **João Victor Nogueira de Souza**.<br/>
+- ⚡ I have a BSc in **Electrical Engineering**.<br/>
+- ➡️ The language I'm most proficient is <ins>Python</ins>.<br/>
+- 💻 Currently improving my knowledge in Artificial Intelligence and Data Science.<br/>
+- ⚙️ Programming and Engineering enthusiast.
+## ⚔️ I love learning.
 
 <!--
 **joaovicnog/joaovicnog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
