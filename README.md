@@ -12,6 +12,8 @@
 </ul>
 </div>
 
+<h2>⚔️ I love learning.</h2>
+
 <!--
 **joaovicnog/joaovicnog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
